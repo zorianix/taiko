@@ -65,7 +65,7 @@
     "is-reachable": "^5.1.1",
     "progress": "^2.0.3",
     "proxy-from-env": "^1.1.0",
-    "recast": "^0.20.5"
+    "recast": "^0.21.1"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
