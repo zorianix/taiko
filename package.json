@@ -54,7 +54,7 @@
   "author": "getgauge",
   "license": "MIT",
   "dependencies": {
-    "@babel/parser": "^7.17.9",
+    "@babel/parser": "^7.18.5",
     "chrome-remote-interface": "^0.31.2",
     "commander": "^9.2.0",
     "debug": "^4.3.4",
