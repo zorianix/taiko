@@ -55,7 +55,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/parser": "^7.17.9",
-    "chrome-remote-interface": "^0.31.2",
+    "chrome-remote-interface": "^0.31.3",
     "commander": "^9.2.0",
     "debug": "^4.3.4",
     "documentation": "^13.2.5",
